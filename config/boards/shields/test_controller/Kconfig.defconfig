@@ -1,0 +1,6 @@
+if SHIELD_TEST_CONTROLLER
+
+config ZMK_KEYBOARD_NAME
+    default "test_controller"
+
+endif
